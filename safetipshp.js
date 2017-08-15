@@ -19,18 +19,13 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*10)+ 1);
+var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="entrepreneurial-challenges-case-of.html"}
-if(x=="2"){xxx="what-brings-about-malignant-mesothelioma.html"}
-if(x=="3"){xxx="mesothelioma-treatment-and-claims.html"}
-if(x=="4"){xxx="mesothelioma-surgery-option.html"}
-if(x=="5"){xxx="how-to-make-mesothelioma-claims.html"}
-if(x=="6"){xxx="marketing-medical-staffing-tips-you.html"}
-if(x=="7"){xxx="business-intelligence-leading-way-to.html"}
-if(x=="8"){xxx="things-not-to-be-missed-in-tanzania.html"}
-if(x=="9"){xxx="the-most-amazing-highlights-of.html"}
-if(x=="10"){xxx="the-history-of-republic-airport.html"}a_to_ve[i].href="http://www.safe-tipshp.cf/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="need-quote-for-car-insurance.html"}
+if(x=="2"){xxx="you-can-find-quotes-for-car-insurance.html"}
+if(x=="3"){xxx="quotes-for-car-insurance-how-to-save.html"}
+if(x=="4"){xxx="online-insurance-quote-car.html"}
+if(x=="5"){xxx="how-to-make-mesothelioma-claims.html"}a_to_ve[i].href="http://www.safe-tipshp.cf/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
